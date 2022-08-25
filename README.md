@@ -1,6 +1,6 @@
 # travelapp
 
-A new Flutter project.
+A new Training Flutter project.
 
 ## Getting Started
 
